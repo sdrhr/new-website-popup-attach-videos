@@ -1,0 +1,108 @@
+body{
+    background-color: white;
+}
+
+.jumbotron{
+text-align: center;
+}
+.display-4{
+    font-size: 3.5rem;
+    line-height: 1.2;
+    font-weight: 300;
+}
+
+ h1{
+     font-size: 17px;
+     color: indigo;
+ }
+ .sightlight{
+     padding: 2rem;
+ }
+ 
+   
+ 
+ .col-sm-5{
+     background-color: blueviolet;
+    display: block;
+    margin-top: 9px;
+    margin-bottom: 9px;
+ }
+ .img-fluid{
+     height: 50%;
+ 
+ }
+ .sectiondark{
+ display:block;
+ padding: 2rem;
+ margin-left: 34px;
+ }
+.wrapstuff{
+     margin-top: 20px;
+    
+ }
+ button.btn-coolstuff{
+    margin-left: 40%;
+    color: aliceblue;
+    background-color: rgb(67, 34, 185);
+    display: block;
+}
+.modal-title{
+    margin-left: 30%;
+}
+.formmoddel{
+ padding: 2rem;
+}
+/* .sectiondark{
+    background-color: rgb(124, 137, 141);
+    width: 100%;
+} */
+.form-control
+{
+    width: 100%;
+}
+.modal-body{
+    background-color: darkgrey;
+
+}
+.imgcenter{
+    height: 160px;
+    width: 160px;
+  margin-left: 90px;
+  margin-top: 4px;
+}
+.imgup{
+    height: 160px;
+    width: 160px;
+  margin-left: 80px;
+  margin-top: 4px;
+}
+.imgside{
+    height: 160px;
+    width: 160px;
+  margin-left: 120px;
+  margin-top: 4px;
+}
+button.btn-center{
+    color: #ee4455;
+    background-color: darkgrey;
+    margin-left: 120px;
+    margin-top: 6px;
+    margin-bottom: 23px;
+}
+
+button.btn-side
+{
+    color: #ee4455;
+    background-color: darkgrey;
+    margin-left: 150px;
+    margin-top: 6px;
+    margin-bottom: 23px;
+}
+button.btn-up{
+    color: #ee4455;
+    background-color: darkgrey;
+    margin-left: 110px;
+    margin-top: 6px;
+    margin-bottom: 23px;
+}
+
